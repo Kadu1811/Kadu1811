@@ -13,7 +13,7 @@
 
 <br>
 <p align="center">
-  Heey! So good to see you here. <br>I'm Kadu, the great <strong>problem solver</strong>! <br> I am a <strong>developer</strong> also, and I'm graduating in <strong>Computer Sciences.</strong>.<br />
+  Heey! So good to see you here. <br>I'm Kadu, the great <strong>problem solver</strong>! <br> I am a <strong>developer</strong> and I'm graduating in <strong>Computer Science.</strong><br />
 <strong>Start to developing </strong>brings me<strong> life and dreams </strong>about who <strong>I want to be</strong> and what <strong>I want to do</strong>.
 
 </p>
