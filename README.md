@@ -6,24 +6,20 @@
 
 <div align="center">
 
-<img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="700px" />
+<img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" />
 
 </div>
 
 
 <br>
 <p align="center">
-  Heey! So good to see you here. <br>I'm Kadu, the great <strong>problem solver</strong>! <br> I am a <strong>developer</strong> and I'm graduating in <strong>Computer Science.</strong><br />
-<strong>Start to developing </strong>brings me<strong> life and dreams </strong>about who <strong>I want to be</strong> and what <strong>I want to do</strong>.
+  Heey! So good to see you here. <br>I'm Koda, the great <strong>problem solver</strong>! <br> I`m a <strong>developer</strong> and I'm graduating in <strong>Computer Science.</strong><br />
+🎯 I love technology, but i love even more the results and business transformations it can provide,choosing the <strong>ideal technology</strong> for the <strong>right problem</strong> to create high-value solutions.
 
 </p>
 
 <p align="center">
   💼 Skills: <strong>Overcome obstacles with a big smile and open mind.</strong>
-</p>
-
-<p align="center">
-  🚀  Learning: <strong>JavaScript, HTML, CSS, Bootstrap and React Native.</strong>
 </p>
 
 <p align="center">
