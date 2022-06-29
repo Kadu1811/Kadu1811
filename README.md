@@ -1,12 +1,12 @@
 <span align="center">
 
-# <img src="https://i.imgur.com/0hdZ65D.gif" width="40px" height="40px"> Helloo World!
+# Helloo World!
 
 </span>
 
 <div align="center">
 
-<img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" />
+<img height="420em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" />
 
 </div>
 
