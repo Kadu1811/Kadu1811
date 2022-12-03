@@ -13,7 +13,7 @@
 
 <br>
 <p align="center">
-  Heey! So good to see you here. <br>I'm Kadu, the great <strong>problem solver</strong>! <br> I`m a <strong>developer</strong> and I'm graduating in <strong>Computer Science.</strong><br />
+  Heey! So good to see you here. <br>I'm Kadu, a young <strong>software developer</strong>! <br> I`m a <strong>developer</strong> and I'm graduating in <strong>Computer Science.</strong><br />
 🎯 I love technology, but i love even more the results and business transformations it can provide,choosing the <strong>ideal technology</strong> for the <strong>right problem</strong> to create high-value solutions.
 
 </p>
