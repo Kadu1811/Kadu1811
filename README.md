@@ -2,9 +2,7 @@
 <h1 align="center">Hello World!</h1>
 
 <div align="center">
-
-<img height="420em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" />
-
+  <img height="420em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" />
 </div>
 
 <br>
@@ -56,6 +54,6 @@
 <br>
 
 <div align="center">
-<h2>Let's code!!!</h2>
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" />
+  <h2>My spiritual animal ladies and gentleman 👇🏻</h2>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" />
 </div>
