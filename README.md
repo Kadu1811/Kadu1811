@@ -54,6 +54,6 @@
 <br>
 
 <div align="center">
-  <h2>My spiritual animal</h2>
+  <h2>Coding Mode</h2>
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" />
 </div>
