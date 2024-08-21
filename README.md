@@ -50,10 +50,3 @@
 ## 🎵 Currently Listening
 
 [![Spotify](https://novatorem-4hx3srgx8-kadu1811.vercel.app/api/spotify)](https://open.spotify.com/user/KaduPlentis)
-
-<br>
-
-<div align="center">
-  <h2>Coding Mode</h2>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" />
-</div>
