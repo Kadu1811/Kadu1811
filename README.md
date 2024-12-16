@@ -43,7 +43,6 @@
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/TailwindCSS-blue?style=flat-square&logo=tailwindcss" height="25"/>
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
 </p>
 
 <br>
