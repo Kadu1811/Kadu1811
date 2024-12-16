@@ -32,21 +32,22 @@
 
 <br>
 
-## 💻 Languages & Tools
+<h2 align="center">💻 Languages & Tools</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
+  <img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
   <img src="https://img.shields.io/badge/-Typecript-%23007ACC?style=flat-square&logo=typescript&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-blue?style=flat-square&logo=tailwindcss" height="25"/>
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
 </p>
 
 <br>
 
-## 🎵 Currently Listening
+<h2 align="center">🎵 Currently Listening</h1>
 
 [![Spotify](https://novatorem-4hx3srgx8-kadu1811.vercel.app/api/spotify)](https://open.spotify.com/user/KaduPlentis)
