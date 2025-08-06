@@ -11,7 +11,7 @@
   Heey! So good to see you here <br>
   I'm a young <strong>software developer</strong> focused on frontend! 
   <br> I`m graduating in <strong>Computer Science</strong> at FMU<br />
-  I love 🧑‍💻 technology, 📖 reading fantasy books & 🎮 playing games
+  I love technology 🧑‍💻,reading books 📖 and playing games 🎮
 </p>
 
 <br>
